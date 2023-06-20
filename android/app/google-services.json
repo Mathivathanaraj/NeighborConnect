@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "949953727292",
+    "project_id": "neighbor-connect-b8b61",
+    "storage_bucket": "neighbor-connect-b8b61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949953727292:android:855aed08880c3e3b332c39",
+        "android_client_info": {
+          "package_name": "com.example.neighborconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949953727292-dceus2hjgvrm1pntj9r83k13p0l5rjvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.neighborconnect",
+            "certificate_hash": "fd6c1ed26bc8effb8023726868c566a5dc268a93"
+          }
+        },
+        {
+          "client_id": "949953727292-hngrs1ckkmk5bcaeuvvi3na29hud92bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGoy44vZp4_05oMbvJrYZ5zS6DBlm3Qns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949953727292-hngrs1ckkmk5bcaeuvvi3na29hud92bs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "949953727292-77eqv2nbdt8c4keqls0fbhbbaos81gq9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.neighborconnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
